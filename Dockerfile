@@ -19,6 +19,4 @@ RUN \
 		python3-tornado \
 		python3-pymongo
 
-# RUN pip3 install pymongo==3.4.0 tornado==3.2.1 mutagen==1.43.0 cython
-
 CMD [ "/bin/sh" ]
