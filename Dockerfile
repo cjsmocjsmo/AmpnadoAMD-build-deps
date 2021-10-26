@@ -13,10 +13,11 @@ RUN \
 		python3-dev \
         python3-setuptools \
         python3-wheel \
+		python3-pip \
 		cython3 \
 		python3-mutagen \
 		python3-tornado \
-		python3-pymongo 
+		python3-pymongo
 
 # RUN pip3 install pymongo==3.4.0 tornado==3.2.1 mutagen==1.43.0 cython
 
